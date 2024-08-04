@@ -39,7 +39,7 @@
         </td>
         <td>
             <h2>App UI</h2>
-            <img src="https://github.com/sumair-ce/Simple-Calculator-App-using-Flutter-App-Development/blob/main/Simple%20Calculator%20App.png?raw=true" style="width: 400px; height: auto;" />
+            <img src="https://github.com/sumair-ce/Calculator-App-using-Flutter-App-Development/blob/main/Calculator-UI-Picture.png?raw=true" style="width: 400px; height: auto;" />
         </td>
     </tr>
 </table>
